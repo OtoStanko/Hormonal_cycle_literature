@@ -3,9 +3,10 @@
 Already read:
 
 Currently reading:
+* Applications of a Mathematical Model of the Bovine Estrous Cycle
+  https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:dhFuZR0502QC
 
 Papers to read:
-* https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:dhFuZR0502QC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:mB3voiENLucC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:bFI3QPDXJZMC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:NMxIlDl6LWMC
