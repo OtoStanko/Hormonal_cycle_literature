@@ -8,9 +8,10 @@ Currently reading:
 * A simple mathematical model of the bovine estrous cycle: Follicle development and endocrine interactions
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:mB3voiENLucC
   https://www.sciencedirect.com/science/article/pii/S0022519311001238
+* Advances in modelling of the bovine estrous cycle: Administration of PGF2alpha
+  https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:bFI3QPDXJZMC
 
 Papers to read:
-* https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:bFI3QPDXJZMC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:NMxIlDl6LWMC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:9yKSN-GCB0IC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:qjMakFHDy7sC
