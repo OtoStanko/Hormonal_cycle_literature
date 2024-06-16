@@ -12,9 +12,11 @@ Currently reading:
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:bFI3QPDXJZMC
 * Mathematical modeling of follicular development in bovine estrous cycles
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:qjMakFHDy7sC
+* A mathematical model of the human menstrual cycle for the administration of GnRH analogues
+  https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:4JMBOYKVnBMC
+
 
 Papers to read:
-* https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:4JMBOYKVnBMC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:hMod-77fHWUC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:M05iB0D1s5AC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:rO6llkc54NcC
