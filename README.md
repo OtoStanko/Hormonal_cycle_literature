@@ -30,6 +30,9 @@ Papers to read:
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:EUQCXRtRnyEC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:3s1wT3WcHBgC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:BqipwSGYUEgC
+* Optimal Personalised Treatment Computation through In Silico Clinical Trials on Patient Digital Twins
+* Follicular competition in cows: the selection of dominant follicles as a synergistic effect
+
 
 Could not access:
 * A Differential Equation Model to Investigate the Dynamics of the Bovine Estrous Cycle
