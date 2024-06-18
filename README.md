@@ -19,10 +19,11 @@ Currently reading:
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:hMod-77fHWUC
 * Mathematical Modeling and Simulation Provides Evidence for New Strategies of Ovarian Stimulation
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:M05iB0D1s5AC
+* Modelling oscillatory patterns in the bovine estrous cycle with Boolean delay equations
+  https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:rO6llkc54NcC
 
 
 Papers to read:
-* https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:rO6llkc54NcC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:zA6iFVUQeVQC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:dfsIfKJdRG4C
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:cFHS6HbyZ2cC
