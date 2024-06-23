@@ -21,6 +21,8 @@ Currently reading:
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:M05iB0D1s5AC
 * Modelling oscillatory patterns in the bovine estrous cycle with Boolean delay equations
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:rO6llkc54NcC
+* Complementing ODE-Based System Analysis Using Boolean Networks Derived from an Euler-Like Transformation
+  https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140954
 
 
 Papers to read:
