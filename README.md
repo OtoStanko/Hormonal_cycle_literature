@@ -23,10 +23,11 @@ Currently reading:
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:rO6llkc54NcC
 * Complementing ODE-Based System Analysis Using Boolean Networks Derived from an Euler-Like Transformation
   https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140954
+* Hormonal regulation of ovarian follicle growth in humans: Model-based exploration of cycle variability and parameter sensitivities
+  https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:zA6iFVUQeVQC
 
 
 Papers to read:
-* https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:zA6iFVUQeVQC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:dfsIfKJdRG4C
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:cFHS6HbyZ2cC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:pyW8ca7W8N0C
