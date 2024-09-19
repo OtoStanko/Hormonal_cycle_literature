@@ -38,6 +38,13 @@ Papers to read:
 * Follicular competition in cows: the selection of dominant follicles as a synergistic effect
 
 
+Normalization techniques:
+ * Effect of Normalization Techniques on Univariate Time Series Forecasting using Evolutionary Higher Order Neural Network
+   https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=1250a5417ad5bc1414e3baebfbcfa23608c21a27
+ * A Large Comparison of Normalization Methods on Time Series
+   https://www.sciencedirect.com/science/article/pii/S2214579623000400#br0340
+
+
 Could not access:
 * A Differential Equation Model to Investigate the Dynamics of the Bovine Estrous Cycle
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:NMxIlDl6LWMC
