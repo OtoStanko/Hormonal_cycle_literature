@@ -36,6 +36,10 @@ Papers to read:
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:BqipwSGYUEgC
 * Optimal Personalised Treatment Computation through In Silico Clinical Trials on Patient Digital Twins
 * Follicular competition in cows: the selection of dominant follicles as a synergistic effect
+* Self-prediction of ovulation using a urinary luteinizing hormone test
+  https://pubmed.ncbi.nlm.nih.gov/3761282/
+* Quantitative and qualitative tests for urinary luteinizing hormone. Comparison in spontaneous and clomiphene-citrate-treated cycles
+  https://pubmed.ncbi.nlm.nih.gov/2277368/
 
 
 Normalization techniques:
