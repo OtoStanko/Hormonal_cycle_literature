@@ -46,6 +46,7 @@ Hormone articles/papers:
   https://www.bodylogicmd.com/hormone-testing/hormone-tests/
 * Prediction of ovulation: new insight into an old challenge
   https://pmc.ncbi.nlm.nih.gov/articles/PMC10651856/
+    * see reference 9, 10, 15 for methods for predict ovulation time
 
 
 Normalization techniques:
