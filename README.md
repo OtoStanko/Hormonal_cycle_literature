@@ -44,6 +44,8 @@ Hormone articles/papers:
   https://pubmed.ncbi.nlm.nih.gov/2277368/
 * Understanding Different Types of Hormone Tests
   https://www.bodylogicmd.com/hormone-testing/hormone-tests/
+* Prediction of ovulation: new insight into an old challenge
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC10651856/
 
 
 Normalization techniques:
