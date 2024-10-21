@@ -35,10 +35,12 @@ Papers to read (hormonal cycle):
 * Optimal Personalised Treatment Computation through In Silico Clinical Trials on Patient Digital Twins
 * Follicular competition in cows: the selection of dominant follicles as a synergistic effect
 
-Hormone articles/papers:
+Ovulation articles/papers:
 * Prediction of ovulation: new insight into an old challenge
   https://pmc.ncbi.nlm.nih.gov/articles/PMC10651856/
     * see reference 9, 10, 15 for methods for predict ovulation time
+* Ultrasound instead of last menstrual period as the basis for gestational age assignment
+    * studies from mid 19th century that show high deviation on cycle leghts
 * Self-prediction of ovulation using a urinary luteinizing hormone test
   https://pubmed.ncbi.nlm.nih.gov/3761282/
 * Quantitative and qualitative tests for urinary luteinizing hormone. Comparison in spontaneous and clomiphene-citrate-treated cycles
