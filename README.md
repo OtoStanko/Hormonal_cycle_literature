@@ -38,16 +38,20 @@ Papers to read (hormonal cycle):
 Ovulation articles/papers:
 * Prediction of ovulation: new insight into an old challenge
   https://pmc.ncbi.nlm.nih.gov/articles/PMC10651856/
-    * see reference 9, 10, 15 for methods for predict ovulation time
+    * See reference 9, 10, 15 for methods for predict ovulation time
 * Ultrasound instead of last menstrual period as the basis for gestational age assignment
   https://obgyn.onlinelibrary.wiley.com/doi/epdf/10.1046/j.1469-0705.1991.01030212.x
-    * studies from mid 19th century that show high deviation on cycle leghts
+    * Studies from mid 19th century that show high deviation on cycle leghts
 * Prediction of the time of ovulation
   https://www.sciencedirect.com/science/article/pii/S0015028216457304
     * BBT dip around the LH peak time
 * The value of ultrasound, gonadotropin, and estradiol measurements for precise ovulation prediction
   https://www.sciencedirect.com/science/article/pii/S0015028216459741
     * LH doubling of LH levels is not a precise method for ovulation detection - some women have not doubled the level (maybe threshold values)
+* Prediction of ovulation
+  https://www.sciencedirect.com/science/article/pii/S0015028216609044
+    * Ovulation should primarily be predicted from the identification
+of the urinary LH peak
 * Self-prediction of ovulation using a urinary luteinizing hormone test
   https://pubmed.ncbi.nlm.nih.gov/3761282/
 * Quantitative and qualitative tests for urinary luteinizing hormone. Comparison in spontaneous and clomiphene-citrate-treated cycles
