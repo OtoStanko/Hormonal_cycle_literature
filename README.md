@@ -42,6 +42,9 @@ Ovulation articles/papers:
 * Ultrasound instead of last menstrual period as the basis for gestational age assignment
   https://obgyn.onlinelibrary.wiley.com/doi/epdf/10.1046/j.1469-0705.1991.01030212.x
     * studies from mid 19th century that show high deviation on cycle leghts
+* Prediction of the time of ovulation
+  https://www.sciencedirect.com/science/article/pii/S0015028216457304
+    * BBT dip around the LH peak time
 * Self-prediction of ovulation using a urinary luteinizing hormone test
   https://pubmed.ncbi.nlm.nih.gov/3761282/
 * Quantitative and qualitative tests for urinary luteinizing hormone. Comparison in spontaneous and clomiphene-citrate-treated cycles
