@@ -40,6 +40,7 @@ Ovulation articles/papers:
   https://pmc.ncbi.nlm.nih.gov/articles/PMC10651856/
     * see reference 9, 10, 15 for methods for predict ovulation time
 * Ultrasound instead of last menstrual period as the basis for gestational age assignment
+  https://obgyn.onlinelibrary.wiley.com/doi/epdf/10.1046/j.1469-0705.1991.01030212.x
     * studies from mid 19th century that show high deviation on cycle leghts
 * Self-prediction of ovulation using a urinary luteinizing hormone test
   https://pubmed.ncbi.nlm.nih.gov/3761282/
