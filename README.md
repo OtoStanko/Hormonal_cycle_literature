@@ -45,6 +45,9 @@ Ovulation articles/papers:
 * Prediction of the time of ovulation
   https://www.sciencedirect.com/science/article/pii/S0015028216457304
     * BBT dip around the LH peak time
+* The value of ultrasound, gonadotropin, and estradiol measurements for precise ovulation prediction
+  https://www.sciencedirect.com/science/article/pii/S0015028216459741
+    * LH doubling of LH levels is not a precise method for ovulation detection - some women have not doubled the level (maybe threshold values)
 * Self-prediction of ovulation using a urinary luteinizing hormone test
   https://pubmed.ncbi.nlm.nih.gov/3761282/
 * Quantitative and qualitative tests for urinary luteinizing hormone. Comparison in spontaneous and clomiphene-citrate-treated cycles
