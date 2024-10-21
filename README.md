@@ -1,9 +1,7 @@
-# bovine_estrous_cycle_literature
+# Hormonal cycle literature
 
 
-Already read:
-
-Currently reading:
+Read (hormonal cycle):
 * Applications of a Mathematical Model of the Bovine Estrous Cycle
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:dhFuZR0502QC
 * A simple mathematical model of the bovine estrous cycle: Follicle development and endocrine interactions
@@ -27,7 +25,7 @@ Currently reading:
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:zA6iFVUQeVQC
 
 
-Papers to read:
+Papers to read (hormonal cycle):
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:dfsIfKJdRG4C
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:cFHS6HbyZ2cC
 * https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:pyW8ca7W8N0C
@@ -38,15 +36,16 @@ Papers to read:
 * Follicular competition in cows: the selection of dominant follicles as a synergistic effect
 
 Hormone articles/papers:
+* Prediction of ovulation: new insight into an old challenge
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC10651856/
+    * see reference 9, 10, 15 for methods for predict ovulation time
 * Self-prediction of ovulation using a urinary luteinizing hormone test
   https://pubmed.ncbi.nlm.nih.gov/3761282/
 * Quantitative and qualitative tests for urinary luteinizing hormone. Comparison in spontaneous and clomiphene-citrate-treated cycles
   https://pubmed.ncbi.nlm.nih.gov/2277368/
 * Understanding Different Types of Hormone Tests
   https://www.bodylogicmd.com/hormone-testing/hormone-tests/
-* Prediction of ovulation: new insight into an old challenge
-  https://pmc.ncbi.nlm.nih.gov/articles/PMC10651856/
-    * see reference 9, 10, 15 for methods for predict ovulation time
+
 
 
 Normalization techniques:
