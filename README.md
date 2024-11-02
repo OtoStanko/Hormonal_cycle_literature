@@ -68,6 +68,13 @@ Normalization techniques:
    https://www.sciencedirect.com/science/article/pii/S2214579623000400#br0340
 
 
+Prediction papers:
+ * Neural Networks Fail to Learn Periodic Functions and How to Fix It
+   https://proceedings.neurips.cc/paper/2020/hash/1160453108d3e537255e9f7b931f4e90-Abstract.html
+ * Forecasting Solar Cycle 25 using Deep Neural Networks (also incorporates sliding window)
+   https://link.springer.com/article/10.1007/s11207-020-01634-y
+
+
 Could not access:
 * A Differential Equation Model to Investigate the Dynamics of the Bovine Estrous Cycle
   https://scholar.google.com/citations?view_op=view_citation&hl=sk&user=ToRRbOpmnBoC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=ToRRbOpmnBoC:NMxIlDl6LWMC
