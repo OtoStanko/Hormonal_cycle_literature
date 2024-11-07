@@ -74,6 +74,14 @@ Prediction papers:
  * Forecasting Solar Cycle 25 using Deep Neural Networks (also incorporates sliding window)
    https://link.springer.com/article/10.1007/s11207-020-01634-y
 
+Fertility apps studies
+ * Do fertility tracking applications offer women useful information about their fertile window?
+   https://scholar.google.com/scholar?hl=sk&as_sdt=0%2C5&q=Do+fertility+tracking+applications+offer+women+useful+information+about+their+fertile+window%3F&btnG=
+     * a good overview and what info include - calendar, LH, mucus, last period date
+ * Plausibility of Menstrual Cycle Apps Claiming to Support Conception
+   https://scholar.google.com/scholar_lookup?title=Plausibility%20of%20menstrual%20cycle%20apps%20claiming%20to%20support%20conception&publication_year=2018&author=A.%20Freis&author=T.%20Freundl-Schutt&author=L.%20Wallwiener&author=S.%20Baur&author=T.%20Strowitzki&author=G.%20Freundl
+     * what to test, guidelines
+
 
 Could not access:
 * A Differential Equation Model to Investigate the Dynamics of the Bovine Estrous Cycle
