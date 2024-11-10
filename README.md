@@ -68,7 +68,7 @@ Normalization techniques:
    https://www.sciencedirect.com/science/article/pii/S2214579623000400#br0340
 
 
-Prediction papers:
+Forecasting papers:
  * Neural Networks Fail to Learn Periodic Functions and How to Fix It
    https://proceedings.neurips.cc/paper/2020/hash/1160453108d3e537255e9f7b931f4e90-Abstract.html
  * Forecasting Solar Cycle 25 using Deep Neural Networks (also incorporates sliding window)
@@ -81,6 +81,12 @@ Fertility apps studies
  * Plausibility of Menstrual Cycle Apps Claiming to Support Conception
    https://scholar.google.com/scholar_lookup?title=Plausibility%20of%20menstrual%20cycle%20apps%20claiming%20to%20support%20conception&publication_year=2018&author=A.%20Freis&author=T.%20Freundl-Schutt&author=L.%20Wallwiener&author=S.%20Baur&author=T.%20Strowitzki&author=G.%20Freundl
      * what to test, guidelines
+ * Relationship Between the Menstrual Cycle and Timing of Ovulation Revealed by New Protocols: Analysis of Data from a Self-Tracking Health App
+   https://pmc.ncbi.nlm.nih.gov/articles/PMC5725625/
+     * Ogino, HCL, and the Optimized methods
+     * Data from apps, tho not available
+     * Accuracy aggregated by the cycle length with allowable prediction error (0, 1, 2)
+     * This one seems to be the best for comparison
 
 
 Could not access:
