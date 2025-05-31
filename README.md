@@ -88,6 +88,9 @@ Fertility apps studies
      * Accuracy aggregated by the cycle length with allowable prediction error (0, 1, 2)
      * This one seems to be the best for comparison
 
+  Books:
+  * https://otexts.com/fpp2/
+
 
 Could not access:
 * A Differential Equation Model to Investigate the Dynamics of the Bovine Estrous Cycle
