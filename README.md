@@ -91,6 +91,15 @@ Fertility apps studies
   Books:
   * https://otexts.com/fpp2/
 
+Temperature
+ * Changes in basal body temperature and simple reaction times during the menstrual cycle, Simic, Natasa and Ravlic, Arijana
+ * A new method to detect significant basal body temperature changes during a woman's menstrual cycle, Günter Freundl and Petra Frank-Herrmann and Simon Brown and Leonard Blackwell
+     * definition of increase
+     * possible reference to a DB with temperatures
+     * the method could be used to analyse the generated data
+ * Temperature regulation in women: Effects of the menstrual cycle
+     * long, but nice graphs at the beginning
+
 
 Could not access:
 * A Differential Equation Model to Investigate the Dynamics of the Bovine Estrous Cycle
