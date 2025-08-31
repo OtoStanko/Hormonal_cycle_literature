@@ -102,6 +102,12 @@ Temperature
  * Descriptive analysis of the relationship between progesterone and basal body temperature across the menstrual cycle
      * pregnanediol-3 alpha-glucuronide (PDG, the urine metabolite of progesterone)
      * PDG and BBT had parallel increases at low PDG rates but diverged at higher rates
+ * The use of wearable devices for predicting biphasic basal body temperature to estimate the date of ovulation in women, Yuki Uchida, Masahiko Izumizak
+     * some possibly useful devices for temperature measurement. Some could have ability to export the data
+ * Prediction of the fertile window and menstruation with a wearable device via machine-learning algorithms
+     * need to read
+ * Machine learning-based menstrual phase identification using wearable device data
+     * need to read, should be good
 
 
 Could not access:
