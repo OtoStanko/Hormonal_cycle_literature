@@ -99,6 +99,9 @@ Temperature
      * the method could be used to analyse the generated data
  * Temperature regulation in women: Effects of the menstrual cycle
      * long, but nice graphs at the beginning
+ * Descriptive analysis of the relationship between progesterone and basal body temperature across the menstrual cycle
+     * pregnanediol-3 alpha-glucuronide (PDG, the urine metabolite of progesterone)
+     * PDG and BBT had parallel increases at low PDG rates but diverged at higher rates
 
 
 Could not access:
